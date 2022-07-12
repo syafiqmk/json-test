@@ -1,0 +1,102 @@
+{
+    "menu" : [
+                {
+                    "kategori": "Martabak Telur",
+                    "menu": [
+                        {
+                            "nama": "Martabak Telur Ayam",
+                            "harga": 15000
+                        },
+                        {
+                            "nama": "Martabak Telur Bebek",
+                            "harga": 18000
+                        },
+                        {
+                            "nama": "Martabak Telur Daging Sapi",
+                            "harga": 17000
+                        },
+                        {
+                            "nama": "Martabak Polos",
+                            "harga": 14000
+                        },
+                        {
+                            "nama": "Martabak Spesial",
+                            "harga": 16000
+                        },
+                        {
+                            "nama": "Martabak Super",
+                            "harga": 18000
+                        },
+                        {
+                            "nama": "Martabak Jumbo",
+                            "harga": 19000
+                        },
+                        {
+                            "nama": "Martabak Istimewa",
+                            "harga": 19000
+                        }
+                    ]
+                },
+                {
+                    "kategori": "Martabak Manis",
+                    "menu": [
+                        {
+                            "nama": "Martabak Coklat",
+                            "harga": 12000
+                        },
+                        {
+                            "nama": "Martabak Coklat Kacang",
+                            "harga": 13000
+                        },
+                        {
+                            "nama": "Martabak Coklat Susu",
+                            "harga": 14000
+                        },
+                        {
+                            "nama": "Martabak Coklat Kismis",
+                            "harga": 14000
+                        },
+                        {
+                            "nama": "Martabak Pisang",
+                            "harga": 12000
+                        },
+                        {
+                            "nama": "Martabak Pisang Coklat",
+                            "harga": 13000
+                        },
+                        {
+                            "nama": "Martabak Kacang",
+                            "harga": 12000
+                        },
+                        {
+                            "nama": "Martabak Keju Susu",
+                            "harga": 13000
+                        },
+                        {
+                            "nama": "Martabak Keju Coklat",
+                            "harga": 13000
+                        },
+                        {
+                            "nama": "Martabak Stroberi",
+                            "harga": 13000
+                        },
+                        {
+                            "nama": "Martabak Stroberi Keju",
+                            "harga": 14000
+                        },
+                        {
+                            "nama": "Martabak Stroberi Coklat",
+                            "harga": 14000
+                        },
+                        {
+                            "nama": "Martabak Srikaya",
+                            "harga": 13000
+                        },
+                        {
+                            "nama": "Martabak Matcha Keju",
+                            "harga": 14000
+                        }
+                    ]
+                }
+            ]
+}
